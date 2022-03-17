@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+h2{
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 0.5rem;
+}
+header{
+    background-color: #C4C4C4;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+span.numeros{
+    font-weight: bold;
+}
+footer{
+    background-color: rgb(33, 71, 114);
+    color: white;
+    text-align: center;
+}
